@@ -1,0 +1,2 @@
+add_subdirectory(external/emb_util)
+add_subdirectory(external/peripheral_drivers)
