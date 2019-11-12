@@ -1,0 +1,6 @@
+[submodule "external/peripheral_drivers"]
+	path = external/peripheral_drivers
+	url = git@github.com:suburbanembedded/peripheral_drivers.git
+[submodule "external/emb_util"]
+	path = external/emb_util
+	url = git@github.com:suburbanembedded/emb_util.git
