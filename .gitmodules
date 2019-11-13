@@ -4,3 +4,6 @@
 [submodule "external/emb_util"]
 	path = external/emb_util
 	url = git@github.com:suburbanembedded/emb_util.git
+[submodule "external/common_util"]
+	path = external/common_util
+	url = git@github.com:suburbanembedded/common_util.git
